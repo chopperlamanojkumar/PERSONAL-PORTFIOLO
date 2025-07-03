@@ -30,3 +30,10 @@
 *Background images with text overlays*
 
 *Font Awesome social icons in the footer*
+
+*OUTPUT*
+
+
+![Image](https://github.com/user-attachments/assets/1eb7135a-15b9-4b69-8028-20caa8037036)
+
+![Image](https://github.com/user-attachments/assets/ca4b7b28-ff8c-4f02-8959-5225ca957c85)
